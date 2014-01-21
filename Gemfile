@@ -11,7 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'haml-rails'
 gem 'rails_12factor', group: :production
 gem 'foundation_rails_helper'
-
+gem 'thin'
 
 
 group :doc do
@@ -23,7 +23,7 @@ group :assets do
 end
 
 group :development do 
-  gem 'quiet-assets'
+  gem 'quiet_assets'
   gem 'better_errors'
 end
 
