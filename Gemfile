@@ -12,6 +12,10 @@ gem 'rails_12factor', group: :production
 gem 'foundation_rails_helper'
 gem 'thin'
 gem 'backbone-on-rails'
+gem 'devise'
+gem 'twitter'
+gem 'coinbase'
+gem 'oauth2'
 
 group :doc do
   gem 'sdoc', require: false
