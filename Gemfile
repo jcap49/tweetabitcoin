@@ -16,6 +16,7 @@ gem 'devise'
 gem 'twitter'
 gem 'coinbase'
 gem 'oauth2'
+gem 'figaro'
 
 group :doc do
   gem 'sdoc', require: false
