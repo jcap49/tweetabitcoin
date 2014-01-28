@@ -15,7 +15,8 @@ gem 'backbone-on-rails'
 gem 'devise'
 gem 'twitter'
 gem 'coinbase'
-gem 'oauth2'
+gem 'omniauth-twitter'
+gem 'omniauth-coinbase'
 gem 'figaro'
 
 group :doc do
