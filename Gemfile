@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'haml-rails'
 gem 'rails_12factor', group: :production
-gem 'foundation_rails_helper'
+gem 'bootstrap-sass'
 gem 'thin'
 gem 'backbone-on-rails'
 gem 'devise'
